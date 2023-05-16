@@ -1,0 +1,142 @@
+body{
+    padding-top: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+
+.logo{
+    width: 400px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 2px;
+   
+}
+
+#ok{
+    padding: 50px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    
+    justify-content: center;
+    
+}
+
+li{
+font-size: 25px;
+  padding-right: 70px;
+color: blueviolet;
+font-weight: 800;
+}
+
+li:hover{
+    text-transform: uppercase;
+    background-color: blueviolet;
+    color: white;
+    
+}
+
+#iframe{
+
+    border: 2px solid blue;
+    text-align: center;
+    border-radius: 30px;
+    background-color: white;
+    
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    
+}
+
+#img{
+    display: flex;
+}
+
+#immg{
+width: 100px;
+height: 100px;
+padding-left: 30px;
+}
+
+.po{
+    padding: 0px;
+    color: blueviolet;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+h2{
+    color: palevioletred;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+button{
+    padding: 15px;
+    border-radius: 30px;
+    font-size: 25px;
+    color: red;
+    background-color: plum;
+    margin-bottom: 10px;
+}
+
+footer{
+   background-color: cadetblue;
+   padding: 10px;
+   margin: 0%;
+   position: absolute;
+   width: 100%;
+
+
+    
+}
+
+#footer{
+    display: flex;
+
+    justify-content: space-around;
+}
+
+#logo-2{
+    width: 100px;
+    height: 50px;
+    
+}
+
+#but{
+    display: block;
+    margin: 0 auto;
+    color: white;
+}
+
+
+
+
+
+.carousel{
+    display: flex;
+justify-content: center;
+}
+
+
+.yup img{
+    width: 100px;
+    height: 150px;
+}
+
+section{
+    margin: 30px;
+    padding: 20px; 
+    border: 1px solid peru;
+    border-radius: 30px;
+}
+
+#rut{
+    display: block;
+    margin: 0 auto;
+}
+
